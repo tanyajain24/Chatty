@@ -4,6 +4,4 @@
 
 ![Login](1.png)
 ![SignUp](2.png)
-![Landing + Browsing](3.png)
-![Chat](4.png)
 
